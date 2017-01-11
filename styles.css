@@ -1,0 +1,44 @@
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    background-color: #404040;
+    color: white;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+h3 {
+  display:inline;
+  background-color: lightgrey;
+  padding: 5px;
+}
+
+.nav-bar {
+  color: white;
+  text-align: center;
+  margin-top: 0px;
+}
+
+header {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.turquoise-bar {
+  background-color: turquoise;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+.six {
+  border-bottom: 4px solid yellow;
+  font-weight: bold;
+}
