@@ -42,3 +42,36 @@ header {
   border-bottom: 4px solid yellow;
   font-weight: bold;
 }
+
+.rec {
+  display: inline-block;
+  width: 33%
+}
+
+.combined-pics {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  width: 100%;
+}
+
+.link {
+  text-align: center;
+  background-color: #ffcc00;
+}
+
+.words {
+  margin-top: 2px;
+  color: blue;
+}
+
+.word1 {
+  text-decoration: underline;
+}
+
+.word2 {
+  text-decoration: underline;
+}
